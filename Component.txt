@@ -1,0 +1,30 @@
+	
+Buck-Capacitor
+EEE-FP1V220AR
+$0.43000	
+https://www.digikey.com/en/products/detail/panasonic-electronic-components/EEE-FP1V220AR/1701004
+
+rectifier out capacitor
+
+UVZ2G221MRD
+$4.23000
+https://www.digikey.com/en/products/detail/nichicon/UVZ2G221MRD/589194
+
+UPTW6271MRD
+$5.83000
+https://www.digikey.com/en/products/detail/nichicon/UPTW6271MRD/2600263
+
+Current Mesurement resistor
+PE0603DRF570R01L
+$0.07426
+https://www.digikey.com/en/products/detail/yageo/PE0603DRF570R01L/5913781
+
+Buck Mosfets
+FDT3N40TF
+0,534 €
+https://www.mouser.com.tr/ProductDetail/ON-Semiconductor-Fairchild/FDT3N40TF/?qs=%2Fha2pyFaduiyEk53MxuFExrnikJu3q6flJ%252B5sv%2FExVw%3D
+
+Buck Inductor
+744822222
+https://www.mouser.com.tr/ProductDetail/Wurth-Elektronik/744822222/?qs=sGAEpiMZZMv126LJFLh8yyIZIOICTdvmT6YHDAzFjvY%3D
+3,63 €	
